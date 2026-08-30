@@ -2,8 +2,22 @@
 
 This repository is the single index for everything I built across the FlyRank Internship: every assignment, all capstones (Backend Track + General AI Fluency), the retrospective, and links to my live site and hours log. Start here.
 
-**Personal site:** [https://millyanne93-portfolio.netlify.app/](https://millyanne93-portfolio.netlify.app/)   
+**Personal site:** [https://millyanne93-portfolio.netlify.app/](https://millyanne93-portfolio.netlify.app/)  
 **Retrospective:** [RETROSPECTIVE.md](RETROSPECTIVE.md)
+
+---
+
+## General AI Fluency Track — FL-09
+
+### Documentation and Demo — AI-Powered Portfolio Chat Agent
+
+| Item | Link |
+|------|------|
+| **README** | [genai/FL-09-README.md](genai/FL-09-README.md) |
+| **Demo Video** | [YouTube link](link) |
+| **Live Portfolio** | [https://millyanne93-portfolio.netlify.app/](link) |
+
+**One-line summary:** An AI-powered chat agent integrated into my portfolio that answers questions about my background, skills, and projects — with guardrails to prevent hallucinations.
 
 ---
 
@@ -18,13 +32,13 @@ I completed the **Backend Track** of the FlyRank AI Fluency program, building 4+
 ### Capstone 1 — Embeddable Widget & Lead-Capture Platform
 
 - **Repo:** [https://github.com/millyanne93/flyrank-capstone-widget-platform](link)
-- **README:** [https://github.com/millyanne93/flyrank-capstone-widget-platform/blob/master/README.md](link)
+- **README:** [link](link)
 - **One-line summary:** A multi-tenant platform letting customers embed lead-capture widgets on any site via a single script tag, hardened with CORS, rate limiting, spam protection, and geo enrichment with a provider fallback chain.
 
 ### Capstone 2 — AI Image Understanding & Content Matching Engine
 
 - **Repo:** [https://github.com/millyanne93/flyrank-capstone-image-relevance](link)
-- **README:** [https://github.com/millyanne93/flyrank-capstone-image-relevance/blob/master/README.md](link)
+- **README:** [link](link)
 - **Demo video:** [https://youtu.be/IalU2j9yYps](link)
 - **One-line summary:** An AI pipeline that tags images with Gemini Flash, embeds images and posts, and uses a mismatch guard to reject bad image-to-post matches instead of guessing — 80% top-1 precision on a labeled eval set.
 
@@ -35,21 +49,9 @@ I completed the **Backend Track** of the FlyRank AI Fluency program, building 4+
 ### Capstone — AI Fluency: Personal Brand, Agent & Portfolio
 
 - **Repo:** [https://github.com/millyanne93/Gen-AI-Fluency-Capstone1/tree/master](link)
-- **README:** [https://github.com/millyanne93/Gen-AI-Fluency-Capstone1/blob/master/README.md](link)
+- **README:** [link](link)
 - **Live Portfolio:** [https://millyanne93-portfolio.netlify.app/](https://millyanne93-portfolio.netlify.app/)
 - **One-line summary:** Integrated AI fluency into my professional presence, built an AI-powered portfolio chat agent, developed reusable AI workflows (research summarizer, prompt ladder, case-study framework), and established a consistent personal brand.
-
-**Components:**
-| Component | Status | Evidence |
-|-----------|--------|----------|
-| AI Stack (Claude, ChatGPT, NotebookLM) | ✅ Completed | Documented workflows |
-| AI Workflows (Research Summarizer, Prompt Ladder, Case Study Framework) | ✅ Completed | Proven patterns |
-| Personal Brand — Portfolio | ✅ Live | [millyanne93-portfolio.netlify.app](link) |
-| Personal Agent — Chat Widget | ✅ Built & Deployed | Gemini API + Netlify Function |
-| Portfolio Maintenance System | ✅ Implemented | Monthly review process |
-
----
-
 
 ---
 
