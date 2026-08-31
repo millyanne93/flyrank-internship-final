@@ -17,7 +17,7 @@ This repository is the single index for everything I built across the FlyRank In
 | **Demo Video** | [https://youtu.be/-0321Lui2Bo](link) |
 | **Live Portfolio** | [https://millyanne93-portfolio.netlify.app/](link) |
 
-**One-line summary:** An AI-powered chat agent integrated into my portfolio that answers questions about my background, skills, and projects — with guardrails to prevent hallucinations.
+**One-line summary:** An AI-powered chat agent integrated into my portfolio that answers questions about my background, skills, and projects, with guardrails to prevent hallucinations.
 
 ---
 
@@ -40,7 +40,7 @@ I completed the **Backend Track** of the FlyRank AI Fluency program, completing 
 - **Repo:** [https://github.com/millyanne93/flyrank-capstone-image-relevance](link)
 - **README:** [https://github.com/millyanne93/flyrank-capstone-image-relevance/blob/master/README.md](link)
 - **Demo video:** [https://youtu.be/IalU2j9yYps](link)
-- **One-line summary:** An AI pipeline that tags images with Gemini Flash, embeds images and posts, and uses a mismatch guard to reject bad image-to-post matches instead of guessing — 80% top-1 precision on a labeled eval set.
+- **One-line summary:** An AI pipeline that tags images with Gemini Flash, embeds images and posts, and uses a mismatch guard to reject bad image-to-post matches instead of guessing; 80% top-1 precision on a labeled eval set.
 
 ---
 
@@ -72,7 +72,7 @@ Completed in the FlyRank portal.
 
 ## A Note on AI Usage Across the Internship
 
-Claude was used throughout as a build partner — scaffolding, debugging, and design review — with implementation decisions, testing, and final review done by me. Capstone-specific detail is in each project's BUILDLOG.md.
+I used Claude throughout as a build partner, scaffolding, debugging, and design review, with implementation decisions, testing, and final review done by me. Capstone-specific detail is in each project's BUILDLOG.md.
 
 For the General AI Fluency capstone, I also used ChatGPT and NotebookLM for research, prompt refinement, and comparative evaluation.
 
